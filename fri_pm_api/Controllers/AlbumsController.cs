@@ -83,5 +83,6 @@ namespace fri_pm_api.Controllers
             db.SaveChanges();
             return Ok();
         }
+
     }
 }
